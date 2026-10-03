@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+daily_five.db
